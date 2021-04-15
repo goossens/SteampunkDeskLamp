@@ -1,0 +1,5 @@
+.zoomable {
+	cursor: -webkit-zoom-in;
+    cursor: -moz-zoom-in;
+    cursor: zoom-in;
+}

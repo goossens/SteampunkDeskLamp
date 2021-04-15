@@ -1,0 +1,134 @@
+body {
+	width: 100%;
+	height: 100%;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	color: #fff;
+	background-color: #000;
+}
+
+html {
+	width: 100%;
+	height: 100%;
+}
+
+a {
+	color: #42dca3;
+	-webkit-transition: all .2s ease-in-out;
+	-moz-transition: all .2s ease-in-out;
+	transition: all .2s ease-in-out;
+}
+
+a:hover,
+a:focus {
+	text-decoration: none;
+	color: #1d9b6c;
+}
+
+li {
+	text-align: left;
+}
+
+pre code {
+	color: #f4c;
+}
+
+.navbar-custom {
+	margin-bottom: 0;
+	border-bottom: 1px solid rgba(255,255,255,.3);
+	background-color: #000;
+}
+
+.navbar-custom-top {
+	border-bottom: 0;
+	background: 0 0;
+	-webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+	-moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+	transition: background .5s ease-in-out,padding .5s ease-in-out;
+}
+
+.navbar-toggler i {
+	color: #42dca3;
+}
+
+.intro {
+	display: table;
+	width: 100%;
+	height: 100%;
+	padding: 100px 0;
+	color: #fff;
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+
+.intro .intro-body {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.btn-circle {
+	width: 70px;
+	height: 70px;
+	margin-top: 15px;
+	padding: 7px 16px;
+	border: 2px solid #fff;
+	border-radius: 100%!important;
+	font-size: 40px;
+	color: #fff;
+	background: 0 0;
+	-webkit-transition: background .3s ease-in-out;
+	-moz-transition: background .3s ease-in-out;
+	transition: background .3s ease-in-out;
+}
+
+.btn-circle:hover,
+.btn-circle:focus {
+	outline: 0;
+	color: #fff;
+	background: rgba(255,255,255,.1);
+}
+
+.btn-circle i.animated {
+	-webkit-transition-property: -webkit-transform;
+	-webkit-transition-duration: 1s;
+	-moz-transition-property: -moz-transform;
+	-moz-transition-duration: 1s;
+}
+
+.btn-circle:hover i.animated {
+	-webkit-animation-name: pulse;
+	-moz-animation-name: pulse;
+	-webkit-animation-duration: 1.5s;
+	-moz-animation-duration: 1.5s;
+	-webkit-animation-iteration-count: infinite;
+	-moz-animation-iteration-count: infinite;
+	-webkit-animation-timing-function: linear;
+	-moz-animation-timing-function: linear;
+}
+
+.spacer {
+	width: 100%;
+    min-height: 1px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: inline-block;
+    position: elative;
+}
+
+.spacer2 {
+	width: 100%;
+    min-height: 1px;
+    margin-top: 600px;
+    margin-bottom: 600px;
+    display: inline-block;
+    position: relative;
+}
+
+.centered {
+	margin-left: auto;
+	margin-right: auto;
+}

@@ -1,0 +1,44 @@
+include /page.pug
+
++page("Steampunk Desk Light")
+	+menubar("JoGo Steampunk")
+		+menuitem("Overview", "#overview")
+		+menuitem("Instructions", "#instructions")
+		+menuitem("Parts", "#parts")
+		+menuitem("Schematic", "#schematic")
+		+menuitem("Models", "#models")
+		+menuitem("Links", "#links")
+
+	+intro("Steampunk Desk Light", "'Confusion Inspired Engineering'", "img/background.jpg")
+		include:markdown-it intro.md
+		+next("#overview")
+	+spacer()
+
+	+section("overview", "Desk Light Overview")
+		include:markdown-it overview.md
+		+next("#instructions")
+	+spacer()
+
+	+section("instructions", "Construction Instructions")
+		include:markdown-it instructions.md
+		+next("#parts")
+	+spacer()
+
+	+section("parts", "Parts List")
+		include:markdown-it partslist.md
+		+next("#schematic")
+	+spacer()
+
+	+section("schematic", "Schematic")
+		include:markdown-it schematic.md
+		+next("#models")
+	+spacer()
+
+	+section("models", "3D Models")
+		include:markdown-it models.md
+		+next("#links")
+	+spacer()
+
+	+section("links", "Relevant Links")
+		include:markdown-it links.md
+	+spacer()
