@@ -3,8 +3,8 @@ include /page.pug
 +page("Steampunk Desk Light")
 	+menubar("JoGo Steampunk")
 		+menuitem("Overview", "#overview")
-		+menuitem("Instructions", "#instructions")
 		+menuitem("Parts", "#parts")
+		+menuitem("Instructions", "#instructions")
 		+menuitem("Schematic", "#schematic")
 		+menuitem("Models", "#models")
 		+menuitem("Links", "#links")
@@ -16,16 +16,16 @@ include /page.pug
 
 	+section("overview", "Desk Light Overview")
 		include:markdown-it overview.md
-		+next("#instructions")
-	+spacer()
-
-	+section("instructions", "Construction Instructions")
-		include:markdown-it instructions.md
 		+next("#parts")
 	+spacer()
 
 	+section("parts", "Parts List")
 		include:markdown-it partslist.md
+		+next("#instructions")
+	+spacer()
+
+	+section("instructions", "Construction Instructions")
+		include:markdown-it instructions.md
 		+next("#schematic")
 	+spacer()
 

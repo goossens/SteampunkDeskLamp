@@ -18,5 +18,8 @@ On this page you can find a [description](#description) with pictures,
 [instructions](#instructions) on how to make the desk lamp, [parts](#parts)
 lists on what to buy, [schematics](#schematic) on how to wire it all up and
 the 3D printed [models](#models) to 'glue' it all together. All digital
-assets to build your own can be found in my
+assets required to build your own can be found in my
 [Github repository](https://github.com/goossens/DeskLight).
+
+Disclainer: This project deals with lethal electrical current.
+Use at your own risk!!
