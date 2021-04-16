@@ -21,5 +21,5 @@ the 3D printed [models](#models) to 'glue' it all together. All digital
 assets required to build your own can be found in my
 [Github repository](https://github.com/goossens/DeskLight).
 
-Disclainer: This project deals with lethal electrical current.
+Disclaimer: This project deals with lethal electrical current.
 Use at your own risk!!

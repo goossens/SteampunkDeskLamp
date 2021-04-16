@@ -1,3 +1,5 @@
+##### My Links
+
 * All about [Johan Goossens](/index.html)
 * Johan's [War on Cancer](/waroncancer)
 * Johan's musical endeavours:
@@ -11,3 +13,9 @@
 * Johan's Beer Brewing activities:
 	* [Homebrew Setup](/brewing)
 	* [Beer Brewing 101](/brewing101) tutorial
+
+##### Steampunk Videos
+
+* [BanjoShow](https://www.youtube.com/channel/UCwzpraxiLapi_cbDAi5ZDRw)
+* [Steampunk Lamp Art Sculpture](https://www.youtube.com/watch?v=yp7B-WRDoVw)
+* [Steampunk Pipe Lamp](https://www.youtube.com/watch?v=4NE9xIa08KI)

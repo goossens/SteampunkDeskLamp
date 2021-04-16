@@ -5,8 +5,8 @@ hardware store, shop a little on [Etsy](http://etsy.com),
 [Banggoods](http://bangoods.com) and/or [Ebay](http://ebay.com),
 wire up some cables and LEDs, print some 3D parts and put it all
 together. OK, I admit, that's a lot of work and it took me a few
-months of figuring out how other people do this sort of project
-and than determine what the best options were for my skillset.
+months of figuring out how other people do this and than I had to
+determine what the best options were for my skillset.
 
 In the end, you can create a functional desk lamp with that old
 Steampunk feel. The lamp only has three controls. A master power

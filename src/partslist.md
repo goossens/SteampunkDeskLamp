@@ -17,7 +17,7 @@ a thousand different way. Here are the parts I used:
 | Item | Description | Picture |
 | ---- | ----------- | ------- |
 | Copper Fittings | I got two 3/4" Copper Threaded Adapter Fittings. The thread is the same 3/4" tapered [National Pipe Thread (NPT)](https://en.wikipedia.org/wiki/National_pipe_thread) used on the Black Steel Nipples. This allowed the same 3D printed adaptors to be used. | [![P](img/copper2.jpg)](img/copper.jpg) |
-| Vacuum Tubes | Given that we only use the vacuum tubes for looks, I got a box full of them on Ebay and I simply used the ones looked the base and fitted in the base. Here I used two small ones. | [![P](img/tube2.jpg)](img/tube.jpg)
+| Vacuum Tubes | Given that we only use the vacuum tubes for looks, I got a box full of them on Ebay and I simply used the ones that looked the best and fitted in the base. Here I used two small ones. | [![P](img/tube2.jpg)](img/tube.jpg)
 | LEDs | Four 5mm amber LEDS to bottom light the vacuum tubes (two LEDs per tube). I bought mine with a flat top so it was easier to glue them in. | [![P](img/leds2.jpg)](img/leds.jpg) |
 | Resistors | Four 120 Ohm resistors for the LEDs. My LEDs were 2 volts. If you get a different voltage, the value of the resistor has to be adjusted. There are plenty of calculators for this on the Internet. | [![P](img/resistors2.jpg)](img/resistors.jpg) |
 
@@ -40,13 +40,13 @@ a thousand different way. Here are the parts I used:
 | Washers | Four 1-1/4" washers with 1/4" holes. | [![P](img/washer2.jpg)](img/washer.jpg) |
 | Spacers | 1/2" and 1" spacers. | [![P](img/spacer2.jpg)](img/spacer.jpg) |
 | Screws | One 4" machine screw with nut. | [![P](img/screw2.jpg)](img/screw.jpg) |
-| Wire | Two feet of copper wire to create the coil. I used grounding wire which is sold in various thicknesses by the foot. You can also use a single strand extracted from a romex cable. | [![P](img/wire2.jpg)](img/wire.jpg) |
+| Wire | One foot of copper wire to create the coil. I used grounding wire which is sold in various thicknesses by the foot. You can also use a single strand extracted from a romex cable. | [![P](img/wire2.jpg)](img/wire.jpg) |
 
 ##### The Case
 
 | Item | Description | Picture |
 | ---- | ----------- | ------- |
-| Copper Box | I used an antique copper planter box that I got from a craft store. I guess it was a one off as I can't find it anymore. The good news is that there are plenty available in different shapes and sizes. You can even use a plastic or wooden box and "patina it up". | [![P](img/box2.jpg)](img/box.jpg) |
+| Copper Box | I used an antique copper planter box that I got from a craft store. I guess it was a one off as I can't find it anymore. The good news is that there are plenty available in different shapes and sizes. You can even use a plastic or wooden box and "patina it up" yourself. | [![P](img/box2.jpg)](img/box.jpg) |
 | Dimmer | One 120 volt Rotary Base Dimmer. Mine is 300 watts but given that the Edison LED bulb only uses 7 watts, any dimmer will probably do. | [![P](img/dimmer2.jpg)](img/dimmer.jpg) |
 | Volt Meter | One 10v DC panel mount meter. You can find plenty of these on Ebay and Banggoods. Pick your favorite shape. | [![P](img/meter2.jpg)](img/meter.jpg) |
 | Switch | One good looking panel mount switch with cover. We're only switching 5v to the LEDs so it can be almost anything. | [![P](img/switch2.jpg)](img/switch.jpg) |
