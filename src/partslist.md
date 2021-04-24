@@ -9,7 +9,7 @@ a thousand different way. Here are the parts I used:
 | Black Steel Nipples | Three 3/4 inch Black Steel Nipple. I used two 4-1/2" and one 2". I got mine at Home Depot since theirs are a little "prettier" than the ones from Lowes. Remember we're after looks, not the ability to safely carry gas. | [![P](img/nipple2.jpg)](img/nipple.jpg) |
 | Elbow | One 3/4" Black Iron 90° Elbow. | [![P](img/elbow2.jpg)](img/elbow.jpg) |
 | Valve Switch | As this was my first Steampunk project, I bought a ready-made Water Valve Light Switch on Etsy. In the future, I'll make them myself by using a real water valve and adding a rotary switch. There are plenty of videos on YouTube on how to do this. | [![P](img/valve2.jpg)](img/valve.jpg) |
-| Lamp Socket | Again I bought one ready-made on Etsy but these are equally easy to make by combining a Black Iron Elbow or Coupler and glueing in a rubber lamp socket. Both are available at every hardware store. | [![P](img/socket2.jpg)](img/socket.jpg) |
+| Lamp Socket | Again I bought one ready-made on Etsy but these are equally easy to make by combining a Black Iron Elbow or Coupler and glueing in a rubber lamp socket. Both are available at the hardware store. | [![P](img/socket2.jpg)](img/socket.jpg) |
 | Edison Light Bulb | This again is all about being pretty. I got a spherical LED Edison light bulb with a spiral filament that is 3" in diameter. Shop around and you can find them in many shapes. I would recommend you stick with LED as the incandescent Edison bulbs get incredibly hot. | [![P](img/bulb2.jpg)](img/bulb.jpg) |
 
 ##### Vacuum Tubes on Copper Pipes
@@ -29,8 +29,8 @@ a thousand different way. Here are the parts I used:
 | Nipple | I used one 2" long Black Steel Nipple but you can use any size based on the geometry of your lamp. | [![P](img/nipple2.jpg)](img/nipple.jpg) |
 | Reducing Coupling | One 1-1/4" x 3/4" Black Pipe Reducing Coupling. | [![P](img/reducer2.jpg)](img/reducer.jpg) |
 | Vacuum Tube | From the same box mentioned above but I used a bigger one because it looked better. | [![P](img/tube2.jpg)](img/tube.jpg)
-| LEDs | Three 5mm amber LEDS to bottom light the vacuum tube (three LEDs on this tube as it's bigger). | [![P](img/leds2.jpg)](img/leds.jpg) |
-| Resistors | Three 120 Ohm resistors for the LEDs. | [![P](img/resistors2.jpg)](img/resistors.jpg) |
+| LEDs | Two 5mm amber LEDS to bottom light the vacuum tube. | [![P](img/leds2.jpg)](img/leds.jpg) |
+| Resistors | two 120 Ohm resistors for the LEDs. | [![P](img/resistors2.jpg)](img/resistors.jpg) |
 
 ##### Strange Coil Contraption in the Back
 

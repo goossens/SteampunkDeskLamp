@@ -1,6 +1,6 @@
 Welcome to my first [Steampunk](https://en.wikipedia.org/wiki/Steampunk)
 project. I got interested in this artform in 2019 after I saw some amazing
-projects on YouTube (see [links](#links) below for examples). Initially
+projects on YouTube (see [links](#links) below for examples). Initially,
 I wanted to try this out myself but I was quickly discouraged as most of
 the Steampunk artists were experts in metalworking and machining. For a
 second, I though I could pull this off using simple woodworking techniques

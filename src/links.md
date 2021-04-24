@@ -1,7 +1,7 @@
 ##### My Links
 
 * All about [Johan Goossens](/index.html)
-* Johan's [War on Cancer](/waroncancer)
+* Johan's [War on Cancer](/waroncancer.html)
 * Johan's musical endeavours:
 	* [Rock on 11](/rockon11)
 	* [Cujo Panic](/cujopanic)
@@ -11,8 +11,8 @@
 	* [ObjectTalk Computer Language](https://github.com/goossens/ObjectTalk)
 	* [Pugger Static Website Builder](https://github.com/goossens/Pugger)
 * Johan's Beer Brewing activities:
-	* [Homebrew Setup](/brewing)
-	* [Beer Brewing 101](/brewing101) tutorial
+	* [Homebrew Setup](/brewing.html)
+	* [Beer Brewing 101](/brewing101.html) tutorial
 
 ##### Steampunk Videos
 
